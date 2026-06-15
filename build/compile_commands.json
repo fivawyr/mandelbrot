@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/finn/dev/mandelbrot_simulation/build",
+  "command": "/usr/bin/cc  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2  -arch arm64 -o CMakeFiles/main.dir/code.c.o -c /Users/finn/dev/mandelbrot_simulation/code.c",
+  "file": "/Users/finn/dev/mandelbrot_simulation/code.c",
+  "output": "CMakeFiles/main.dir/code.c.o"
+}
+]

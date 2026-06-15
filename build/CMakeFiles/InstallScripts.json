@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/finn/dev/mandelbrot_simulation/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
