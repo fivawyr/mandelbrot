@@ -1,3 +1,10 @@
-*.exe
 *.o
 *.so
+*.dylib
+*.dll
+
+build/
+bin/
+debug/
+release/
+
