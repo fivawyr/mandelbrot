@@ -13,9 +13,8 @@ cd # where ever you clone this repo
 c++ main.cpp -I/opt/homebrew/include $(sdl2-config --libs) -o main && ./main
 ./mandelbrot
 ```
-
-- TODO: Screenshot of finished simulaion
-
+![Screenshot](ressources/screenshot.png)
+> Screenshot from the simulation
 ### Ressources
 - [SDL2 Documenation](https://wiki.libsdl.org/SDL2/FrontPage)
 - [man complex.h](https://man7.org/linux/man-pages/man0/complex.h.0p.html)
